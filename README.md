@@ -1,3 +1,5 @@
+![omz-capture-last-output banner](./banner.png)
+
 # capture-output
 
 Oh My Zsh plugin that transparently captures every command's output to memory.  
